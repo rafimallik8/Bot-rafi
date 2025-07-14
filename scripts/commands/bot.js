@@ -73,7 +73,7 @@ module.exports = {
           "jang bal falaba🙂"
           "jan cuse diba😅"
         "রাফি কে একটা গফ দাও😡"
-        "বার বার ডাকলে পুদ মেরে দিবো🥵🤬"
+        "বার বার ডাকলে পুদ মেরে দিবো🥵"
         ];
         const name = await Users.getNameUser(events.senderID);
         const rand = greetings[Math.floor(Math.random() * greetings.length)];
