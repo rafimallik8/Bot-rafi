@@ -9,7 +9,7 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "rafi-bot",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
@@ -18,7 +18,7 @@
   ],
   "ADMINBOT": [
     "100000959749712",
-    ""
+    "100077391521075"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
