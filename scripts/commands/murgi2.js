@@ -18,7 +18,7 @@ module.exports.run = async function({ api, args, Users, event}) {
         arraytag.push({id: mention, tag: name});
     var a = function (a) { api.sendMessage(a, event.threadID); }
 a("চুদা লো");
-setTimeout(() => {a({body: "খাংকির পোলা তর মারে চুদি 🥰।" + " " + name, mentions: arraytag})}, 3000);
+setTimeout(() => {a({body: "খাংকির পোলা তর মারে চুদি Rafi tur abba🥰।" + " " + name, mentions: arraytag})}, 3000);
 setTimeout(() => {a({body: "খাংকির পোলা তর কচি বোন রে চুদি 😍.." + " " + name, mentions: arraytag})}, 5000);
 setTimeout(() => {a({body: "মাদারচোদ তর আম্মু পম পম খাংকির পো 🐰" + " " + name, mentions: arraytag})}, 7000);
 setTimeout(() => {a({body: "খাংকির পোলা তর কচি ভুদায় ভুদায় কামর দিমু  💔!" + " " + name, mentions: arraytag})}, 9000);
